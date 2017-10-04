@@ -7,7 +7,7 @@ else
 false
 
 else
-  if index.isNil?
+  if index.nil?
     false
 
 else
