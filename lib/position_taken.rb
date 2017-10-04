@@ -6,15 +6,15 @@ else
    if board[index.to_i] == ""
 false
 
-else 
+else
   if board[index.to_i] == "X"
      true
 
-   else 
+   else
      if board[index.to_i] == "O"
         true
-     
-    
+
+
 end
 
 end
