@@ -8,7 +8,7 @@ false
 
 else
       if board[index.to_i].nil?
-      
+
     false
 
 else
