@@ -1,5 +1,6 @@
-def position taken (board, index)
+def position_taken (board, index)
 
 
 
-end# code your #position_taken? method here!
+end
+# code your #position_taken? method here!
